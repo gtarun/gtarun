@@ -81,13 +81,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/gtarun/gtarun.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtarun&repo=gtarun.github.io&theme=light" />
 </a>
-<a href="https://github.com/gtarun/aweber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtarun&repo=aweber&theme=light" />
+<a href="https://github.com/venturepact/aweber">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venturepact&repo=aweber&theme=light" />
 </a>
 
 <div align="center">
 
-### You're on the right profile if you're looking for a DevRel, Community Manager or an Full Stack Software Engineer ✨
+### You're on the right profile if you're looking for a DevRel, Community Manager or a Full Stack Software Engineer ✨
 
 </div>
 
