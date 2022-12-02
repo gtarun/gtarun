@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <a href="https://dribbble.com/kindavishal">
   <img align="left" alt="Vishal's Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgtarun&labelColor=%23ff8a65&countColor=%23d9e3f0&style=plastic)
+
 -->
 <br/>
 <br/>
@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 [![Linkedin: tarungupta003](https://img.shields.io/badge/-tarungupta003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarungupta003/)](https://www.linkedin.com/in/tarungupta003/)
 [![GitHub iampawan](https://img.shields.io/github/followers/gtarun?label=follow&style=social)](https://github.com/gtarun)
 [![website](https://img.shields.io/badge/PortfolioWebsite-gtarun.github.io-2648ff?style=flat-square&logo=firefox)](https://gtarun.github.io/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgtarun&labelColor=%23ff8a65&countColor=%23d9e3f0&style=plastic)
 
 
 ## **Languages and Tools:** 
