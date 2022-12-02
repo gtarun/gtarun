@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey, I'm [Tarun!](https://gtarun.github.io) 🐥
+## Hey, I'm [Tarun!](https://gtarun.github.io) <img src="https://github.com/ManthanUgemuge/ManthanUgemuge/blob/main/Assets/Hi.gif" height="29px" width="29px">
 
 
 <a href="https://github.com/gtarun">
