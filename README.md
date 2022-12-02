@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hey, I'm [Tarun!](https://gtarun.github.io) 🐥
 
+
 <a href="https://github.com/gtarun">
   <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{gtarun}1212%2Fhit-counter" />
 </a>
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
 <a href="https://dribbble.com/kindavishal">
   <img align="left" alt="Vishal's Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgtarun&labelColor=%23ff8a65&countColor=%23d9e3f0&style=plastic)
 -->
 <br/>
 <br/>
